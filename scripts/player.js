@@ -48,11 +48,11 @@ class Player {
     this.soundObject.setVolume(percent);
   }
 
-  prettyTime(timeInSeconds){
-    const m = ;
-    const ss = ;
-      return 'm':'ss';
-  }
+  // prettyTime(timeInSeconds){
+  //   const m = ;
+  //   const ss = ;
+  //     return 'm':'ss';
+  // }
 }
 
 const player = new Player();
